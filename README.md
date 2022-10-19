@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavan Naik
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django, flask, php
+- 🌱 I’m currently learning java , node.js
 - 💞️ I’m looking to collaborate on HTML CSS 
 - 📫 How to reach me pawannaik20@gmail.com
 

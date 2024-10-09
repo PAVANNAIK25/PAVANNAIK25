@@ -4,14 +4,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&color=2163F7&center=true&random=false&width=437&lines=Hi+There+%F0%9F%91%8B;I'm+Pavan+Naik" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate web developer from India <span class="flag-icon flag-icon-ind"></span></h3>
+<h3 align="center">Web developer from India, focused on building efficient and innovative web solutions<span class="flag-icon flag-icon-ind"></span></h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **SOCIAL MEDIA API**
- 
+ 🔭 I’m currently working at **WintreeTech**
+  
  🌱 I’m currently learning **Next.js, Typescript**
 
 💬 Ask me about **Javascript, Node.js, Express.js, React, Redux**

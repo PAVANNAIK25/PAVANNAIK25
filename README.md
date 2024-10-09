@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **SOCIAL MEDIA API**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Next.js, Typescript**
 
-💬 Ask me about **Javascript, Node.js, ExpressJs**
+💬 Ask me about **Javascript, Node.js, Express.js, React, Redux**
 
  </div>
  <br/>

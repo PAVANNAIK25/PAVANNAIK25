@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **WintreeTech**
+ 🔭 I’m currently seeking oppotunity as Fullstack developer
   
- 🌱 I’m currently learning **Next.js, Typescript**
+ 🌱 I’m currently learning **Next.js**
 
-💬 Ask me about **Javascript, Node.js, Express.js, React, Redux**
+💬 Ask me about **Javascript, Node.js, Express.js, React, Redux, MongoDB, Typescript**
 
  </div>
  <br/>

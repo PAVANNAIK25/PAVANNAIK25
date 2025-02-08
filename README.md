@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&color=2163F7&center=true&random=false&width=437&lines=Hi+There+%F0%9F%91%8B;I'm+Pavan+Naik" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Software developer based in Mumbai, India| MERN Stack Developer | React.js Enthusiast | Building Scalable & Performance-Driven Web Apps</h3>
+<h3 align="center">Software developer based in Mumbai, India | MERN Stack Developer | React.js Enthusiast | Building Scalable & Performance-Driven Web Apps</h3>
 
 <br/>
 

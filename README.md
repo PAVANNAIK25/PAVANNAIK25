@@ -4,13 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&color=2163F7&center=true&random=false&width=437&lines=Hi+There+%F0%9F%91%8B;I'm+Pavan+Naik" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Web developer from India, focused on building efficient and innovative web solutions<span class="flag-icon flag-icon-ind"></span></h3>
+<h3 align="center">Software developer from India, focused on building efficient and innovative solutions.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently seeking oppotunity as Fullstack developer
+ 🔭 I’m currently seeking an oppotunity as Full stack developer (MERN stack).
   
  🌱 I’m currently learning **Next.js**
 
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,typescript,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,java" /><br>
 </div>
 <br/>
 
